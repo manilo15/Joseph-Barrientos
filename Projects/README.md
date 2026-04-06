@@ -1,6 +1,5 @@
 # Projects
 This folder contains my projects.
-## Projects
 
 ### Network Security Lab
 - Designed a segmented home lab using VLANs and firewall rules
