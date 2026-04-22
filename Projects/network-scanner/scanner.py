@@ -1,7 +1,7 @@
 import os
 import socket
 
-network = "192.168.1"  # Modify as needed. 
+network = "192.168.1" 
 
 print("Scanning network...\n")
 
