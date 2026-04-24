@@ -1,4 +1,4 @@
-# Joseph-Barrientos
+# Joseph Barrientos
 Professional Portfolio 
 
 ## About Me
