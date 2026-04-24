@@ -68,5 +68,5 @@ python scanner.py
 
 ## Resume
 
-👉 [View My Resume](../../docs/Joseph_Barrientos_Resume.pdf)
+👉 [View My Resume](../../docs/joseph_barrientos_resume.pdf)
 
