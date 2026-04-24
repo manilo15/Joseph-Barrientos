@@ -1,4 +1,4 @@
-# 🌐 Network Scanner
+# Network Scanner
 
 ## Overview
 
