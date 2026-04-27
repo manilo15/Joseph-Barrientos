@@ -21,6 +21,7 @@ python monitor.py
 
 ## Example Output
 ![Ping Monitor](logs/ping-monitor_log.png)
+
 I turned off the Wi-Fi temporarily for testing.
 
 ## How it can be improved
