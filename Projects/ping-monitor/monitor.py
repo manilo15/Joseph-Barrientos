@@ -14,14 +14,14 @@ def log(message):
 
 print(f"Monitoring {target}...\nPress Ctrl+C to stop.\n")
 
+last_status = None
 while True:
     response = os.system(f"ping -n 1 {target} > nul")
+    current_status = "UP" if response == 0 else "DOWN"
 
-    if response == 0:
-        print(f"{target} is UP")
-        log(f"{target} is UP")
-    else:
-        print(f"{target} is DOWN")
-        log(f"{target} is DOWN")
+    if current_status != last_status:
+       print(f"{target} is {current_status}")
+       log(f"{target} is {current_status}")
+       last_status = current_status
 
     time.sleep(2)
