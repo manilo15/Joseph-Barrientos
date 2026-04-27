@@ -1,0 +1,8 @@
+INFO User logged in
+ERROR Failed login attempt
+INFO File accessed
+WARNING Disk space low
+ERROR Connection timeout
+INFO User logged out
+FAILED LOGIN from 192.168.1.50
+ERROR Failed login attempt

@@ -1,0 +1,5 @@
+Log Analysis Summary:
+
+Errors: 3
+Warnings: 1
+Failed Logins: 3
